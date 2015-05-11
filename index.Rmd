@@ -18,7 +18,7 @@ knit        : slidify::knit2slides
 3. Use an empty line followed by three dashes to separate slides!
 
 --- .class #id 
-
+s
 ## Slide 2
 
 Here is my first slide context
@@ -26,6 +26,11 @@ Here is my first slide context
 Here is my second slide context
 
 --- .class #id
+## Slide 3
+
+Here is yet another slide to check the update process with.
+
+
 
 
 
