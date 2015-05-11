@@ -31,7 +31,7 @@ Here is yet another slide to check the update process with.
 
 $x^2$
 
-$\sqrt(x)$
+$\sqrt{x}$
 
 --- .class
 
